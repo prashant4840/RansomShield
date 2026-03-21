@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190743741176",
+    "project_id": "ransomshield-da9c7",
+    "storage_bucket": "ransomshield-da9c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190743741176:android:f8a382cf452fe5dff2f10d",
+        "android_client_info": {
+          "package_name": "com.ransomshield.earlywarning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQZMO8R-CgayOmBDSZI8UEt2o6rQc-1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

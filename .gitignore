@@ -1,0 +1,20 @@
+# System files
+AppData/
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Android
+.gradle/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
