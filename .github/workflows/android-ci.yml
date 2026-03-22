@@ -28,3 +28,4 @@ jobs:
         run: ./gradlew assembleDebug
       - name: Build release APK
         run: ./gradlew assembleRelease
+
