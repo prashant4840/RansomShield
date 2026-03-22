@@ -5,11 +5,23 @@ AppData/
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ml/.venv/
+*.egg-info/
+.pytest_cache/
+
+# ML artifacts (saved_model is large; ransom_model.tflite is committed)
+ml/artifacts/saved_model/
 
 # Android
 .gradle/
 build/
+local.properties
+*.apk
 
 # IDE
 .vscode/

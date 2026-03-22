@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "sample_count": 20,
+    "label": 0,
+    "description": "Sample benign telemetry for pipeline testing"
+  },
+  "samples": [
+    {"timestampMs": 1710000000000, "cpuUsage": 18.2, "memoryUsage": 24.5, "ioOpsPerSec": 12.1, "fileMutationBurst": 8.3, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 12.0, "label": 0},
+    {"timestampMs": 1710000001200, "cpuUsage": 22.1, "memoryUsage": 25.0, "ioOpsPerSec": 15.2, "fileMutationBurst": 9.1, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 14.0, "label": 0},
+    {"timestampMs": 1710000002400, "cpuUsage": 19.8, "memoryUsage": 24.8, "ioOpsPerSec": 11.5, "fileMutationBurst": 7.9, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 12.0, "label": 0},
+    {"timestampMs": 1710000003600, "cpuUsage": 25.3, "memoryUsage": 26.1, "ioOpsPerSec": 18.4, "fileMutationBurst": 10.2, "accessibilityAbuseSignal": 8.0, "suspiciousPermissionScore": 15.0, "label": 0},
+    {"timestampMs": 1710000004800, "cpuUsage": 21.0, "memoryUsage": 25.2, "ioOpsPerSec": 14.0, "fileMutationBurst": 8.5, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 13.0, "label": 0},
+    {"timestampMs": 1710000006000, "cpuUsage": 23.5, "memoryUsage": 25.8, "ioOpsPerSec": 16.2, "fileMutationBurst": 9.8, "accessibilityAbuseSignal": 6.0, "suspiciousPermissionScore": 14.0, "label": 0},
+    {"timestampMs": 1710000007200, "cpuUsage": 20.1, "memoryUsage": 25.1, "ioOpsPerSec": 13.1, "fileMutationBurst": 8.0, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 12.0, "label": 0},
+    {"timestampMs": 1710000008400, "cpuUsage": 24.2, "memoryUsage": 26.0, "ioOpsPerSec": 17.0, "fileMutationBurst": 10.0, "accessibilityAbuseSignal": 7.0, "suspiciousPermissionScore": 15.0, "label": 0},
+    {"timestampMs": 1710000009600, "cpuUsage": 19.5, "memoryUsage": 24.9, "ioOpsPerSec": 12.8, "fileMutationBurst": 8.2, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 13.0, "label": 0},
+    {"timestampMs": 1710000010800, "cpuUsage": 22.8, "memoryUsage": 25.5, "ioOpsPerSec": 15.5, "fileMutationBurst": 9.5, "accessibilityAbuseSignal": 6.0, "suspiciousPermissionScore": 14.0, "label": 0},
+    {"timestampMs": 1710000012000, "cpuUsage": 18.9, "memoryUsage": 24.6, "ioOpsPerSec": 11.9, "fileMutationBurst": 7.8, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 12.0, "label": 0},
+    {"timestampMs": 1710000013200, "cpuUsage": 21.4, "memoryUsage": 25.3, "ioOpsPerSec": 14.3, "fileMutationBurst": 8.7, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 13.0, "label": 0},
+    {"timestampMs": 1710000014400, "cpuUsage": 23.0, "memoryUsage": 25.7, "ioOpsPerSec": 16.0, "fileMutationBurst": 9.2, "accessibilityAbuseSignal": 6.0, "suspiciousPermissionScore": 14.0, "label": 0},
+    {"timestampMs": 1710000015600, "cpuUsage": 20.5, "memoryUsage": 25.0, "ioOpsPerSec": 13.5, "fileMutationBurst": 8.4, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 12.0, "label": 0},
+    {"timestampMs": 1710000016800, "cpuUsage": 24.8, "memoryUsage": 26.2, "ioOpsPerSec": 17.8, "fileMutationBurst": 10.5, "accessibilityAbuseSignal": 8.0, "suspiciousPermissionScore": 15.0, "label": 0},
+    {"timestampMs": 1710000018000, "cpuUsage": 19.2, "memoryUsage": 24.7, "ioOpsPerSec": 12.2, "fileMutationBurst": 8.1, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 13.0, "label": 0},
+    {"timestampMs": 1710000019200, "cpuUsage": 22.5, "memoryUsage": 25.4, "ioOpsPerSec": 15.0, "fileMutationBurst": 9.0, "accessibilityAbuseSignal": 6.0, "suspiciousPermissionScore": 14.0, "label": 0},
+    {"timestampMs": 1710000020400, "cpuUsage": 21.7, "memoryUsage": 25.6, "ioOpsPerSec": 14.6, "fileMutationBurst": 8.9, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 13.0, "label": 0},
+    {"timestampMs": 1710000021600, "cpuUsage": 23.9, "memoryUsage": 25.9, "ioOpsPerSec": 16.5, "fileMutationBurst": 9.6, "accessibilityAbuseSignal": 7.0, "suspiciousPermissionScore": 14.0, "label": 0},
+    {"timestampMs": 1710000022800, "cpuUsage": 20.3, "memoryUsage": 25.2, "ioOpsPerSec": 13.8, "fileMutationBurst": 8.6, "accessibilityAbuseSignal": 5.0, "suspiciousPermissionScore": 12.0, "label": 0}
+  ]
+}

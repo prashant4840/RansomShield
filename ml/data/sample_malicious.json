@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "sample_count": 20,
+    "label": 1,
+    "description": "Sample malicious-like telemetry (simulated) for pipeline testing"
+  },
+  "samples": [
+    {"timestampMs": 1710000100000, "cpuUsage": 78.2, "memoryUsage": 82.5, "ioOpsPerSec": 88.1, "fileMutationBurst": 92.3, "accessibilityAbuseSignal": 85.0, "suspiciousPermissionScore": 78.0, "label": 1},
+    {"timestampMs": 1710000101200, "cpuUsage": 82.1, "memoryUsage": 84.0, "ioOpsPerSec": 90.2, "fileMutationBurst": 94.1, "accessibilityAbuseSignal": 87.0, "suspiciousPermissionScore": 80.0, "label": 1},
+    {"timestampMs": 1710000102400, "cpuUsage": 85.8, "memoryUsage": 86.8, "ioOpsPerSec": 92.5, "fileMutationBurst": 95.9, "accessibilityAbuseSignal": 88.0, "suspiciousPermissionScore": 82.0, "label": 1},
+    {"timestampMs": 1710000103600, "cpuUsage": 88.3, "memoryUsage": 88.1, "ioOpsPerSec": 94.4, "fileMutationBurst": 96.2, "accessibilityAbuseSignal": 90.0, "suspiciousPermissionScore": 85.0, "label": 1},
+    {"timestampMs": 1710000104800, "cpuUsage": 86.0, "memoryUsage": 87.2, "ioOpsPerSec": 93.0, "fileMutationBurst": 95.5, "accessibilityAbuseSignal": 89.0, "suspiciousPermissionScore": 83.0, "label": 1},
+    {"timestampMs": 1710000106000, "cpuUsage": 89.5, "memoryUsage": 88.8, "ioOpsPerSec": 95.2, "fileMutationBurst": 96.8, "accessibilityAbuseSignal": 91.0, "suspiciousPermissionScore": 86.0, "label": 1},
+    {"timestampMs": 1710000107200, "cpuUsage": 84.1, "memoryUsage": 86.1, "ioOpsPerSec": 91.1, "fileMutationBurst": 94.0, "accessibilityAbuseSignal": 87.0, "suspiciousPermissionScore": 82.0, "label": 1},
+    {"timestampMs": 1710000108400, "cpuUsage": 87.2, "memoryUsage": 87.0, "ioOpsPerSec": 93.0, "fileMutationBurst": 95.0, "accessibilityAbuseSignal": 88.0, "suspiciousPermissionScore": 84.0, "label": 1},
+    {"timestampMs": 1710000109600, "cpuUsage": 83.5, "memoryUsage": 85.9, "ioOpsPerSec": 92.8, "fileMutationBurst": 94.2, "accessibilityAbuseSignal": 86.0, "suspiciousPermissionScore": 81.0, "label": 1},
+    {"timestampMs": 1710000110800, "cpuUsage": 88.8, "memoryUsage": 88.5, "ioOpsPerSec": 95.5, "fileMutationBurst": 96.5, "accessibilityAbuseSignal": 90.0, "suspiciousPermissionScore": 85.0, "label": 1},
+    {"timestampMs": 1710000112000, "cpuUsage": 86.9, "memoryUsage": 87.6, "ioOpsPerSec": 93.9, "fileMutationBurst": 95.8, "accessibilityAbuseSignal": 89.0, "suspiciousPermissionScore": 83.0, "label": 1},
+    {"timestampMs": 1710000113200, "cpuUsage": 90.4, "memoryUsage": 89.3, "ioOpsPerSec": 96.3, "fileMutationBurst": 97.7, "accessibilityAbuseSignal": 92.0, "suspiciousPermissionScore": 87.0, "label": 1},
+    {"timestampMs": 1710000114400, "cpuUsage": 85.0, "memoryUsage": 86.7, "ioOpsPerSec": 92.0, "fileMutationBurst": 94.2, "accessibilityAbuseSignal": 87.0, "suspiciousPermissionScore": 82.0, "label": 1},
+    {"timestampMs": 1710000115600, "cpuUsage": 87.5, "memoryUsage": 88.0, "ioOpsPerSec": 94.5, "fileMutationBurst": 95.4, "accessibilityAbuseSignal": 89.0, "suspiciousPermissionScore": 84.0, "label": 1},
+    {"timestampMs": 1710000116800, "cpuUsage": 89.8, "memoryUsage": 88.2, "ioOpsPerSec": 95.8, "fileMutationBurst": 96.5, "accessibilityAbuseSignal": 91.0, "suspiciousPermissionScore": 86.0, "label": 1},
+    {"timestampMs": 1710000118000, "cpuUsage": 84.2, "memoryUsage": 86.7, "ioOpsPerSec": 92.2, "fileMutationBurst": 94.1, "accessibilityAbuseSignal": 86.0, "suspiciousPermissionScore": 81.0, "label": 1},
+    {"timestampMs": 1710000119200, "cpuUsage": 88.5, "memoryUsage": 87.4, "ioOpsPerSec": 94.0, "fileMutationBurst": 95.0, "accessibilityAbuseSignal": 89.0, "suspiciousPermissionScore": 84.0, "label": 1},
+    {"timestampMs": 1710000120400, "cpuUsage": 86.7, "memoryUsage": 87.6, "ioOpsPerSec": 93.6, "fileMutationBurst": 94.9, "accessibilityAbuseSignal": 88.0, "suspiciousPermissionScore": 83.0, "label": 1},
+    {"timestampMs": 1710000121600, "cpuUsage": 90.9, "memoryUsage": 88.9, "ioOpsPerSec": 96.5, "fileMutationBurst": 97.6, "accessibilityAbuseSignal": 92.0, "suspiciousPermissionScore": 86.0, "label": 1},
+    {"timestampMs": 1710000122800, "cpuUsage": 85.3, "memoryUsage": 86.2, "ioOpsPerSec": 91.8, "fileMutationBurst": 93.6, "accessibilityAbuseSignal": 86.0, "suspiciousPermissionScore": 82.0, "label": 1}
+  ]
+}
